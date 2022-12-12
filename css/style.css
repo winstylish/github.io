@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Josefin Sans';
+    box-sizing: border-box;
+}
+
+.nav {
+    height: 100vh;
+    width: 100%;
+    background-image: url(./img/techandall_wallpaper_1.jpg);
+}
